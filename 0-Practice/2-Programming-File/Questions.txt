@@ -1,0 +1,35 @@
+1. swap numbers without third variable
+2. Calculate the Factorial 
+3. Calculate the Factorial with recursion 
+4. Calculate the Fibonocci Sequence
+5. Write a code to reverse a number
+6. Greatest Common Divisor (Simple)
+7. Greatest Common Divisor (Using Euclidean Algorithm)
+8. Reverse the String 
+9. Is string a Palindromne 
+10. Check is it a Armstrong Number 
+11. calculate the Prime number
+12. calculate the prime number using recursion 
+13. Unique 
+14. Duplicates
+15 Sort an array
+
+
+
+
+Zuhan 10 Marks 
+
+Zaresh 10 Marks 
+
+
+from fractions import Fraction
+
+# Take input from user as a string like "3/4"
+user_input = input("Enter a fraction (e.g., 3/4): ")
+
+# Convert the string to a Fraction object
+fraction = Fraction(user_input)
+
+print("You entered the fraction:", fraction)
+print("As a float:", float(fraction))
+
